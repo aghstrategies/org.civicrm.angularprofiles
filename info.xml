@@ -21,8 +21,12 @@
   </comments>
   <civix>
     <namespace>CRM/AngularProfiles</namespace>
+    <format>22.05.2</format>
   </civix>
   <urls>
     <url desc="Documentation">https://github.com/ginkgostreet/org.civicrm.angularprofiles</url>
   </urls>
+  <mixins>
+    <mixin>menu-xml@1.0.0</mixin>
+  </mixins>
 </extension>
